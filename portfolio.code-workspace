@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/Gibson Website"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_18"
+	}
+}
