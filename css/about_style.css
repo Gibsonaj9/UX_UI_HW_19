@@ -8,6 +8,10 @@ body {
     margin: 0px 5%;
 }
 
+section h1 {
+    text-align: center;
+}
+
 #navigation {
     display: flex;
     width: 70%;
@@ -69,6 +73,11 @@ nav h1 {
 nav {
     width: 73%;
     padding: 1%;
+}
+
+.aboutMe {
+    display: flex;
+    align-items: center;
 }
 
 .heroImg {
